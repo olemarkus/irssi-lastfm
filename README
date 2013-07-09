@@ -1,0 +1,5 @@
+Rather minimalistic now playing script for irssi that pulls data from last.fm.
+
+Just set $userName in the script to your last.fm username.
+
+This script was written by Jan Tore Morken and released under the GPLv2 license.
